@@ -2,6 +2,6 @@ package com.example;
 
 public class App{
      public static void main(String[] args) {
-        System.out.print("hello jenkins cd");
+        System.out.print("hello s cd");
      }
 }
